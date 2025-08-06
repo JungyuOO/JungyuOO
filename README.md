@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jungyu</h1>
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=Full%20Stack%20/%20Vision%20AI&textBg=false&fontColor=0000FF&fontSize=80&section=header&reversal=false" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=Full%20Stack%20/%20Vision%20AI&textBg=false&fontColor=000000&fontSize=80&section=header&reversal=false" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> JungyuOO </h2>  
