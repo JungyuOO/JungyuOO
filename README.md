@@ -5,7 +5,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> JungyuOO </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello, I am developer KimJungyu who wants to make the world a better place. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello, I'm Kim Jungyu, a developer who wants to make the world a better place. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✏️ languages ✏️ </h2> <br>
