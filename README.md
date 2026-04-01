@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Engineer;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=AI+Engineer;Full+Stack+Developer;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/JungyuOO?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&cacheSeconds=1)](https://github.com/JungyuOO)
