@@ -42,9 +42,8 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JungyuOO&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://github.com/아이디/아이디/blob/output/github-snake-dark.svg">
+  <img src="https://github.com/JungyuOO/JungyuOO/blob/output/github-snake-dark.svg">
 </div>
-출처: https://sseona814.tistory.com/12 [요리보고 저리봐도 알수없는 코딩💻:티스토리]
 
 
 ## 📫 Contact
